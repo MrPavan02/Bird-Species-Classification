@@ -2,7 +2,7 @@
 
 # **Introduction**
 
-The project focuses on classifying **525 bird species** using a comprehensive dataset containing nearly 84,000 training images, 2,600 test images, and 2,600 validation images. Each bird species is represented by five images in the test and validation sets. The images are of high quality, featuring a single bird occupying at least 50% of the frame. The project aims to leverage deep learning techniques, specifically transfer learning, to achieve high classification accuracy. The **InceptionV3 pre-trained model** from Keras was utilized for this purpose.
+The project focuses on classifying **525 bird species** using a comprehensive dataset containing nearly 84,635 training images, 2,625 test images, and 2,625 validation images. Each bird species is represented by five images in the test and validation sets. The images are of high quality, featuring a single bird occupying at least 50% of the frame. The project aims to leverage deep learning techniques, specifically transfer learning, to achieve high classification accuracy. The **InceptionV3 pre-trained model** from Keras was utilized for this purpose.
 
 # **Process**
 The project followed a structured approach to build and train the model:
